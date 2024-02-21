@@ -1,0 +1,81 @@
+.title {
+        font-family: Helvetica;
+        font-size: 100px;
+        font-weight: bold;
+        color: khaki;
+        text-align: center;
+        background-repeat: no-repeat;
+        display: block;
+        background-size: 500px;
+        width: 500px;
+        height: 500px;
+        position: relative;
+        left: 250px;
+        
+        background-image: url('C:\\Users\\fanne\\OneDrive\\Desktop\\WebDev\\download.png')
+
+        
+        
+        
+        
+
+}
+
+.Home {
+        background-color: teal;
+        padding: 10px;
+        color: white;
+
+
+}
+
+.Projects {
+          background-color: teal;
+          padding: 10px;
+          color: white;
+
+}
+
+.Blog {
+       background-color: teal;
+       padding: 10px;
+       color: white;
+
+
+}
+
+body {
+      background-color: hsl(0, 0%, 89%)
+
+}
+
+
+.brushes {
+         font-family: Helvetica;
+         font-size: 32px;
+         font-weight: bold;
+         color: white;
+         background-color: mediumspringgreen;
+
+
+
+}
+
+.navbar h2 {
+           display: inline;
+           border: 1px solid;
+
+
+}
+
+.navbar {
+        text-align: center;
+        margin:  auto;
+        border: 1px solid;
+}
+
+.Home:hover{
+            cursor: pointer;
+            opacity: 0.8;
+
+}
